@@ -1,5 +1,6 @@
 # devops-aula02
 
 #Audrey Tautou
-#Johnny Depp
+#Will Smith
 #George Clooney
+#Megan Fox 
